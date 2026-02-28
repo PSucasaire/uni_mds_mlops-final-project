@@ -1,2 +1,9 @@
-# put here the libraries your project depends on
-# e.g.: Flask, scikit-learn, etc.
+pandas
+numpy
+scikit-learn
+pyarrow
+joblib
+fastapi
+uvicorn
+pydantic
+requests

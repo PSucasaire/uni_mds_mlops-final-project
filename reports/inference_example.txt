@@ -1,0 +1,6 @@
+HEALTH:
+{"status":"ok","model_exists":true}
+
+PREDICT:
+200
+{"prediction":1,"probability":0.7831124637582798,"model_path":"/content/drive/MyDrive/uni_mds_mlops-final-project/models/champion_model.joblib"}
